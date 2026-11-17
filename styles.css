@@ -1,1 +1,23 @@
-/* your code */
+/* your code */\
+body{
+	font-family: read-write-plaintext-only;
+}
+table{
+	border: 1px black solid;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 13px;
+	border-collapse: collapse;
+	
+}
+thead{
+background: #1e3a8a;
+}
+.header{
+	color: #ffff;
+}
+.header th{
+	font-size:10px;
+	text-align:center;
+	padding: 5px 25px;
+}
